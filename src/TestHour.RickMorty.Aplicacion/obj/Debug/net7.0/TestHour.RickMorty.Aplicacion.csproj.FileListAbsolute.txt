@@ -1,0 +1,15 @@
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\bin\Debug\net7.0\TestHour.RickMorty.Aplicacion.deps.json
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\bin\Debug\net7.0\TestHour.RickMorty.Aplicacion.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\bin\Debug\net7.0\TestHour.RickMorty.Aplicacion.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\bin\Debug\net7.0\TestHour.RickMorty.Dominio.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\bin\Debug\net7.0\TestHour.RickMorty.Dominio.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\TestHour.RickMorty.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\TestHour.RickMorty.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\TestHour.RickMorty.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\TestHour.RickMorty.Aplicacion.AssemblyInfo.cs
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\TestHour.RickMorty.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\TestHour.RickMorty.Aplicacion.csproj.CopyComplete
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\TestHour.RickMorty.Aplicacion.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\refint\TestHour.RickMorty.Aplicacion.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\TestHour.RickMorty.Aplicacion.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\TestoHour\src\TestHour.RickMorty.Aplicacion\obj\Debug\net7.0\ref\TestHour.RickMorty.Aplicacion.dll

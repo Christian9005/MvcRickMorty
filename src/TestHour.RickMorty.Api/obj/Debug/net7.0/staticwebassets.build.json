@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kOI9pbhXQJGH86m1czO1A6glIwyim8LUBwX/voCuLVk=",
+  "Source": "TestHour.RickMorty.Api",
+  "BasePath": "_content/TestHour.RickMorty.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

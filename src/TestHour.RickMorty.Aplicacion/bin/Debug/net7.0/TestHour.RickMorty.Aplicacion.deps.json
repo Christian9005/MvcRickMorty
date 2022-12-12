@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestHour.RickMorty.Aplicacion/1.0.0": {
+        "dependencies": {
+          "TestHour.RickMorty.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "TestHour.RickMorty.Aplicacion.dll": {}
+        }
+      },
+      "TestHour.RickMorty.Dominio/1.0.0": {
+        "runtime": {
+          "TestHour.RickMorty.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestHour.RickMorty.Aplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestHour.RickMorty.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
